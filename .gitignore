@@ -1,0 +1,20 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/Amazing Numbers/Buzz numbers/
+/Amazing Numbers/Duck numbers/
+/Amazing Numbers/Gapful numbers/
+/Amazing Numbers/Happy and Sad numbers/
+/Amazing Numbers/Jumping numbers/
+/Amazing Numbers/Palindromic numbers/
+/Amazing Numbers/Spy numbers/
+/Amazing Numbers/Sunny and Square numbers/
+/Amazing Numbers/lesson-info.yaml
+/Amazing Numbers/task/test/
+/build.gradle
+/course-info.yaml
+/course-remote-info.yaml
+/gradle/
+/gradlew
+/gradlew.bat
+/settings.gradle
